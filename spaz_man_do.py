@@ -1,7 +1,4 @@
 
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
 import tweepy, time, sys, random
 
 CONSUMER_KEY = 'key'
