@@ -1,6 +1,6 @@
 # TwitterBot
 
-This twitter bot has been created using pyhton and tweepy.
+This twitter bot has been created using python and tweepy.
 
 It reads a random line from a text file every 8 hours. I have included Roger's Profanisaurus within the text file.
 
